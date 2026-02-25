@@ -1,7 +1,8 @@
 ---
 name: creative-writing-claw
 description: "Collaborative fiction writing skill for co-authoring stories, drafting scenes, developing characters, and revising prose. Use when the user wants to write fiction, brainstorm story ideas, outline a narrative, pick a writing style, blend genres, or work through any stage of the creative writing process."
-version: 1.0.0
+allowed-tools: Read, Write, Edit
+context: fork
 ---
 
 # Creative Writing Claw
