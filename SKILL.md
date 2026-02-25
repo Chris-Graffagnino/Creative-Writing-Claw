@@ -1,3 +1,9 @@
+---
+name: creative-writing-claw
+description: "Collaborative fiction writing skill for co-authoring stories, drafting scenes, developing characters, and revising prose. Use when the user wants to write fiction, brainstorm story ideas, outline a narrative, pick a writing style, blend genres, or work through any stage of the creative writing process."
+version: 1.0.0
+---
+
 # Creative Writing Claw
 
 Operational reference for collaborative fiction writing. Combines a collaboration playbook, craft checklists, and 28 synthesized styles into a single working document.
